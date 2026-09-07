@@ -1,0 +1,23 @@
+# ModelSim / Questa simulation libraries
+work/
+modelsim.ini
+transcript
+vsim.wlf
+wlft*
+
+# Simulation waveform dumps
+*.vcd
+*.wlf
+
+# ModelSim project and local configuration files
+*.mpf
+*.mti
+
+# Backup files
+*.bak
+*~
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
